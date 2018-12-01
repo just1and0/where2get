@@ -101,7 +101,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="slider-content_wrap">
-                                    <h1>WHERE TO GET</h1>
+                                    <h1>WHERE2GET</h1>
                                     <!-- <h5>Let's uncover the best places to eat, drink, and shop nearest to you.</h5> -->
                                 </div>
                             </div>
